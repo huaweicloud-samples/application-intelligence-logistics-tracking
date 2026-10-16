@@ -1,0 +1,9 @@
+huaweicloudsdkcore>=3.0
+huaweicloudsdkfunctiongraph>=3.0
+huaweicloudsdkrds>=3.0
+huaweicloudsdkvpc>=3.0
+strands-agents[openai]
+strands-agents-tools
+pg8000
+python-dotenv
+requests

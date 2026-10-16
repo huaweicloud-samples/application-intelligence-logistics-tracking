@@ -1,0 +1,4 @@
+strands-agents[openai]
+strands-agents-tools
+pg8000
+requests

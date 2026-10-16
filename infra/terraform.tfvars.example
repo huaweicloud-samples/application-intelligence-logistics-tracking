@@ -1,0 +1,25 @@
+# Huawei Cloud Credentials
+HW_ACCESS_KEY = "your-access-key"
+HW_SECRET_KEY = "your-secret-key"
+
+# Region Configuration
+HW_REGION_NAME = "cn-north-4"
+
+# Project Configuration
+project_name = "logistics-agent"
+
+# Network Configuration
+vpc_cidr      = "10.0.0.0/16"
+subnet_a_cidr = "10.0.1.0/24"
+subnet_b_cidr = "10.0.2.0/24"
+
+# RDS Configuration
+rds_flavor  = "rds.mysql.s1.small"
+rds_storage = 20
+db_user     = "root"
+db_password = "LogisticsAgent2024!"
+
+# MaaS Configuration
+model_api_key  = "your-maas-api-key"
+model_endpoint = "https://api.modelarts-maas.com"
+model_id       = "DeepSeek-V4"
